@@ -39,8 +39,17 @@ header.carousel .fill {
     background-size: cover;
 }
 
+.img-center {
+	margin: 0 auto;
+}
 /* 404 Page Styles */
 
+.p-t-5 {
+	padding-top: 5px;
+}
+.p-b-5 {
+	padding-bottom: 5px;
+}
 .error-404 {
     font-size: 100px;
 }
@@ -84,7 +93,7 @@ footer {
         margin-bottom: 15px;
     }
 
-    header.carousel .carousel {
+    /*header.carousel .carousel {
         height: 70%;
-    }
+    }*/
 }
