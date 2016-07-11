@@ -53,6 +53,12 @@ header.carousel .fill {
 .error-404 {
     font-size: 100px;
 }
+.description-text{
+	font-size: 14px;
+	margin: 0 0 10px;
+	line-height: 1.42857143;
+	font-weight: 400;
+}
 
 /* Pricing Page Styles */
 
